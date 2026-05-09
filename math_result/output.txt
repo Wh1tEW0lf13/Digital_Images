@@ -1,0 +1,4 @@
+20.0 pierwiastek z niej == 4.47213595499958
+4.0 pierwiastek z niej == 2.0
+20.0 pierwiastek z niej == 4.47213595499958
+4.0 pierwiastek z niej == 2.0
